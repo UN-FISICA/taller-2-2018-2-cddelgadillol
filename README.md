@@ -12,3 +12,7 @@ En este programa se uso lo que teniamos en el programa dos, pero se modifico par
 Programa 5:
 Solo modifique el programa 3 en donde la variable ahora era el numero de lados, le borre la parte de longitud circuinscrita , para que las figuras cambiaran de tamaño
 Programa 6
+Fue bastante sencillo pues ya habioa solucionado ese problema desde el programa 2, cambie a la forma ya conocida que es una division de grados del circulo cicuinscrito y ya . 
+
+
+fin
